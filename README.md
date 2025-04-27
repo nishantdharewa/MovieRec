@@ -1,0 +1,1 @@
+Movie Recommendation System which explore the dynamic field of ML and develop a movie recommendation website aimed at delivering highly personalized suggestions for users. The system uses advanced algorithms to analyze user behavior and movie attributes, ensuring every recommendation feels just right.
